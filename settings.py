@@ -25,7 +25,7 @@ SECRET_KEY = 'fe6!5muy*wa_e^5dxm39o*nt6@f^d3o84=@qhm+452$&9+0%0p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'eksa.mod.gov.my']
+ALLOWED_HOSTS = ['127.0.0.1', 'eksav2.mod.gov.my']
 
 
 # Application definition
